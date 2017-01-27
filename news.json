@@ -1,0 +1,51 @@
+{
+  "news": [
+    {
+      "id": 0,
+      "title": "Przykładowy artykuł",
+      "shortDescription": "krótki opis",
+      "content": "Zawartość artykułu",
+      "newsCategoriesList": [
+        {
+          "id": 0,
+          "name": "Nazwa kategori 1",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        },
+        {
+          "id": 1,
+          "name": "Nazwa kategori 2",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        }
+      ],
+      "date": {
+        "dateFrom": "2017-01-01",
+        "dateTo": "2017-02-01"
+      },
+      "thumbnail": {
+        "id": 3,
+        "uri": "http://www.freeiconspng.com/uploads/newspaper-icon-11.png",
+        "path": ""
+      },
+      "images": [{
+        "id": 1,
+        "uri": "http://affinityallianceco.com.au/wp-content/uploads/2015/06/events-icon-orange-.jpg",
+        "path": ""
+      }],
+      "www": "example.com",
+      "connectedContentList": [
+        {
+          "id": 1,
+          "category": "Ważne",
+          "name": "Powiązane wydarzenie"
+        }
+      ]
+    }]
+}
