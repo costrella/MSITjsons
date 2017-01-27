@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "id": 0,
+      "title": "Przykładowe wydarzenie",
+      "eventCategoriesList": [
+        {
+          "id": 0,
+          "name": "Nazwa kategori 1",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        },
+        {
+          "id": 1,
+          "name": "Nazwa kategori 2",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        }
+      ],
+      "shortDescription": "krótki opis",
+      "content": "Zawartość wydarzenia",
+      "date": {
+        "dateFrom": "2017-01-01",
+        "dateTo": "2017-02-01"
+      },
+      "thumbnail": {
+        "id": 3,
+        "uri": "http://affinityallianceco.com.au/wp-content/uploads/2015/06/events-icon-orange-.jpg",
+        "path": ""
+      },
+      "image": [{
+        "id": 1,
+        "uri": "http://affinityallianceco.com.au/wp-content/uploads/2015/06/events-icon-orange-.jpg",
+        "path": ""
+      }],
+      "disabledFacilities": true,
+      "www": "example.com",
+      "placeId": "0",
+      "address": {
+        "id": 0,
+        "country": "Polska"
+      },
+      "contact": {
+        "mailsList": [
+          {
+            "value": "mail@mail.com"
+          }
+        ],
+        "wwwList": [
+          {
+            "value": "example.com"
+          }
+        ],
+        "phonesList": [
+          {
+            "value": "123456789"
+          }
+        ],
+        "faxList": [
+          {
+            "value": "mail@mail.com"
+          }
+        ]
+      },
+      "localization": {
+        "description": "Lokalizacja",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krak%C3%B3w_-_Sukiennice_01.jpg/250px-Krak%C3%B3w_-_Sukiennice_01.jpg",
+        "coordinatesList": [
+          {
+            "id": 0,
+            "lat": 10,
+            "lon": 10,
+            "elv": 5
+          }
+        ]
+      },
+      "connectedContentList": [
+        {
+          "id": 1,
+          "category": "Turystyka",
+          "name": "Powiązane wydarzenie"
+        }
+      ]
+    }]
+}
