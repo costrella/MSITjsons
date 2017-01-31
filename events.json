@@ -26,8 +26,8 @@
       "shortDescription": "krótki opis",
       "content": "Zawartość wydarzenia",
       "date": {
-        "dateFrom": "2017-01-01T12:00:00",
-        "dateTo": "2017-02-01T12:00:00"
+        "dateFrom": "2017-01-01T12:00:001Z",
+        "dateTo": "2017-02-01T12:00:001Z"
       },
       "thumbnail": {
         "id": 3,
