@@ -78,7 +78,13 @@
             "lon": 10,
             "elv": 5
           }
-        ]
+        ],
+		"mainCoordinates": {
+			"id": "0",
+			"lat": "50.0667",
+			"lon": "19.94226",
+			"elv": "1"
+		}
       },
       "connectedContentList": [
         {
