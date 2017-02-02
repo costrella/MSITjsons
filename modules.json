@@ -1,36 +1,3 @@
-class func malopolskaPurple() -> UIColor{
-        return hexStringToUIColor(hex: "#5c2d91")
-    }
-    class func malopolskaPink() -> UIColor{
-        return hexStringToUIColor(hex: "#ec008c")
-    }
-    class func malopolskaDarkBlue() -> UIColor{
-        return hexStringToUIColor(hex: "#314f88")
-    }
-    class func malopolskaLightBlue() -> UIColor{
-        return hexStringToUIColor(hex: "#00b9f1")
-    }
-    class func malopolskaBlue() -> UIColor{
-        return hexStringToUIColor(hex: "#426ab3")
-    }
-    class func malopolskaDarkGreen() -> UIColor{
-        return hexStringToUIColor(hex: "#00a94f")
-    }
-    class func malopolskaLightGreen() -> UIColor{
-        return hexStringToUIColor(hex: "#8cc63f")
-    }
-    class func malopolskaYellow() -> UIColor{
-        return hexStringToUIColor(hex: "#ffc20e")
-    }
-    class func malopolskaDarkGrey() -> UIColor{
-        return hexStringToUIColor(hex: "#29292a")
-    }
-    class func numbersRed() -> UIColor{
-        return hexStringToUIColor(hex: "#f44336")
-    }
-
-
-
 {
 	"modules": [{
 		"id": 1,
