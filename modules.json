@@ -1,93 +1,126 @@
+class func malopolskaPurple() -> UIColor{
+        return hexStringToUIColor(hex: "#5c2d91")
+    }
+    class func malopolskaPink() -> UIColor{
+        return hexStringToUIColor(hex: "#ec008c")
+    }
+    class func malopolskaDarkBlue() -> UIColor{
+        return hexStringToUIColor(hex: "#314f88")
+    }
+    class func malopolskaLightBlue() -> UIColor{
+        return hexStringToUIColor(hex: "#00b9f1")
+    }
+    class func malopolskaBlue() -> UIColor{
+        return hexStringToUIColor(hex: "#426ab3")
+    }
+    class func malopolskaDarkGreen() -> UIColor{
+        return hexStringToUIColor(hex: "#00a94f")
+    }
+    class func malopolskaLightGreen() -> UIColor{
+        return hexStringToUIColor(hex: "#8cc63f")
+    }
+    class func malopolskaYellow() -> UIColor{
+        return hexStringToUIColor(hex: "#ffc20e")
+    }
+    class func malopolskaDarkGrey() -> UIColor{
+        return hexStringToUIColor(hex: "#29292a")
+    }
+    class func numbersRed() -> UIColor{
+        return hexStringToUIColor(hex: "#f44336")
+    }
+
+
+
 {
 	"modules": [{
 		"id": 1,
 		"name": "STR_MAIN",
 		"icon": "IC_MAIN",
 		"action": "AC_MAIN",
-		"color": "CL_MAIN"
+		"color": "#314f88"
 	}, {
 		"id": 2,
 		"name": "STR_NEWS",
 		"icon": "IC_NEWS",
 		"action": "AC_NEWS_OPEN",
-		"color": "CL_NEWS"
+		"color": "#ec008c"
 	}, {
 		"id": 3,
 		"name": "STR_EVENTS",
 		"icon": "IC_EVENTS",
 		"action": "AC_EVENTS_OPEN",
-		"color": "CL_EVENTS"
+		"color": "#5c2d91"
 	}, {
 		"id": 4,
 		"name": "STR_POI",
 		"icon": "IC_POI",
 		"action": "AC_POI_OPEN",
-		"color": "CL_POI"
+		"color": "#426ab3"
 	}, {
 		"id": 5,
 		"name": "STR_FAV",
 		"icon": "IC_FAV",
 		"action": "AC_FAV_OPEN",
-		"color": "CL_FAV"
+		"color": "#426ab3"
 	}, {
 		"id": 6,
 		"name": "STR_MAP",
 		"icon": "IC_MAP",
 		"action": "AC_MAP_OPEN",
-		"color": "CL_MAP"
+		"color": "#8cc63f"
 	}, {
 		"id": 7,
 		"name": "STR_TRAVEL_PLAN",
 		"icon": "IC_TRAVEL_PLAN",
 		"action": "AC_TRAVEL_PLAN_OPEN",
-		"color": "CL_TRAVEL_PLAN"
+		"color": "#ffc20e"
 	}, {
 		"id": 8,
 		"name": "STR_ROUTES",
 		"icon": "IC_ROUTES",
 		"action": "AC_ROUTES_OPEN",
-		"color": "CL_ROUTES"
+		"color": "#ffc20e"
 	}, {
 		"id": 9,
 		"name": "STR_TALKS",
 		"icon": "IC_TALKS",
 		"action": "AC_TALKS_OPEN",
-		"color": "CL_TALKS"
+		"color": "#ffc20e"
 	}, {
 		"id": 10,
 		"name": "STR_POSTCARD",
 		"icon": "IC_POSTCARD",
 		"action": "AC_POSTCARD_OPEN",
-		"color": "CL_POSTCARD"
+		"color": "#ffc20e"
 	}, {
 		"id": 11,
 		"name": "STR_GAMES",
 		"icon": "IC_GAMES",
 		"action": "AC_GAMES_OPEN",
-		"color": "CL_GAMES"
+		"color": "#ffc20e"
 	}, {
 		"id": 12,
 		"name": "STR_AR",
 		"icon": "IC_AR",
 		"action": "AC_AR_OPEN",
-		"color": "CL_AR"
+		"color": "#ffc20e"
 	}, {
 		"id": 13,
 		"name": "STR_NUMBERS",
 		"icon": "IC_NUMBERS",
 		"action": "AC_NUMBERS_OPEN",
-		"color": "CL_NUMBERS"
+		"color": "#ffc20e"
 	}, {
 		"id": 14,
 		"name": "STR_ASIST",
 		"icon": "IC_ASIST",
 		"action": "AC_ASIST_OPEN",
-		"color": "CL_ASIST"
+		"color": "#ffc20e"
 	}, {
 		"id": 15,
 		"name": "STR_OPTIONS",
 		"icon": "IC_OPTIONS",
 		"action": "AC_OPTIONS_OPEN",
-		"color": "CL_OPTIONS"
+		"color": "#ffc20e"
 	}]
 }
