@@ -88,9 +88,9 @@
       },
       "connectedContentList": [
         {
-          "id": 1,
-          "category": "Turystyka",
-          "name": "Powiązane wydarzenie"
+          "id": 1011023,
+          "category": "AC_POI_OPEN",
+          "name": "Zamek królewski na Wawelu"
         }
       ]
     }]
