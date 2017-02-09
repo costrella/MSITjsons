@@ -1,0 +1,15 @@
+{
+	"routes": [{
+		"name": "Trasa o id 101",
+		"id": 101,
+		"shortDescription": "Opis szczegolowy trasy",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krak%C3%B3w_-_Sukiennice_01.jpg/250px-Krak%C3%B3w_-_Sukiennice_01.jpg",
+		"placesList": [
+	  {
+			"id": 0
+		},
+			   {
+			"id": 101
+		}]
+	}]
+}
