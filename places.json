@@ -1,92 +1,74 @@
 {
-  "places": [
-    {
-      "id": 101,
-      "name": "Przykładowe miejsce",
-      "shortDescription": "krótki opis",
-      "content": "Opis miejsca",
-      "placeCategoriesList": [
-        {
-          "id": 0,
-          "name": "Nazwa kategori 1",
-          "image": {
-            "id": 0,
-            "uri": "http://www.drodd.com/images15/c5.png",
-            "path": ""
-          }
-        },
-        {
-          "id": 1,
-          "name": "Nazwa kategori 2",
-          "image": {
-            "id": 0,
-            "uri": "http://www.drodd.com/images15/c5.png",
-            "path": ""
-          }
-        }
-      ],
-      "openHours": "8:00 - 19:00",
-      "thumbnail": {
-        "id": 3,
-        "uri": "http://www.freeiconspng.com/uploads/newspaper-icon-11.png",
-        "path": ""
-      },
-      "images": [{
-        "id": 1,
-        "uri": "http://affinityallianceco.com.au/wp-content/uploads/2015/06/events-icon-orange-.jpg",
-        "path": ""
-      }],
-      "disabledFacilities": true,
-      "address": {
-        "id": 0,
-        "country": "Polska"
-      },
-      "contact": {
-        "mailsList": [
-          {
-            "value": "mail@mail.com"
-          }
-        ],
-        "wwwList": [
-          {
-            "value": "example.com"
-          }
-        ],
-        "phonesList": [
-          {
-            "value": "123456789"
-          }
-        ],
-        "faxList": [
-          {
-            "value": "mail@mail.com"
-          }
-        ]
-      },
-      "localization": {
-        "description": "Lokalizacja",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krak%C3%B3w_-_Sukiennice_01.jpg/250px-Krak%C3%B3w_-_Sukiennice_01.jpg",
-        "coordinatesList": [
-          {
-            "id": 0,
-            "lat": 10,
-            "lon": 10,
-            "elv": 5
-          }
-        ],
-		"mainCoordinates": {
-			"id": "0",
-			"lat": "50.0667",
-			"lon": "19.94226",
-			"elv": "1"
-		}
-      },
-      "connectedContentList": [
-        {
-          "id": 1,
-          "category": "Ważne",
-          "name": "Powiązane wydarzenie"
-        }
-      ]
-    }]
+	"places": [{
+		"id": 101,
+		"name": "Kościół w Połomii",
+		"shortDescription": "Parafia w Połomi powstała na przełomie XIII i XIV wieku.",
+		"content": "Parafia w Połomi powstała na przełomie XIII i XIV wieku. Została po raz pierwszy wymieniona w spisie świętopietrza sporządzonym przez archidiakona opolskiego Mikołaja Wolffa w 1447 pośród innych parafii archiprezbiteratu (dekanatu) w Żorach pod nazwą Polom[1] zaś od XVI w. do dekanatu wodzisławskiego. Początkowo do parafii należała tylko wieś Połomia, ale po ustąpieniu reformacji na Górnym Śląsku w 1629 roku przyłączono do niej jeszcze wsie Świerklany i Gogołowa. Ta pierwsza miejscowość uzyskała własną parafię pw. św. Anny w 1957 r. Dobroczyńcy: Szanowana w całym powiecie rodzina Winklerów.",
+		"placeCategoriesList": [{
+			"id": 0,
+			"name": "CHURCH",
+			"image": {
+				"id": 0,
+				"uri": "http://www.drodd.com/images15/c5.png",
+				"path": ""
+			}
+		}, {
+			"id": 1,
+			"name": "MONUMENT",
+			"image": {
+				"id": 0,
+				"uri": "http://www.drodd.com/images15/c5.png",
+				"path": ""
+			}
+		}],
+		"openHours": "8:00 - 19:00",
+		"thumbnail": {
+			"id": 3,
+			"uri": "http://jankowice.rybnik.pl.rsz.io/groby/images/pisula1.jpg?width=200",
+			"path": ""
+		},
+		"images": [{
+			"id": 1,
+			"uri": "http://jankowice.rybnik.pl/groby/images/pisula1.jpg",
+			"path": ""
+		}],
+		"disabledFacilities": true,
+		"address": {
+			"id": 0,
+			"country": "Polska"
+		},
+		"contact": {
+			"mailsList": [
+
+			],
+			"wwwList": [{
+				"value": "parafiapolomia.pl"
+			}],
+			"phonesList": [{
+				"value": "32 476 04 70"
+			}],
+			"faxList": []
+		},
+		"localization": {
+			"description": "Centralna 50, 44-323 Połomia",
+			"image": "",
+			"coordinatesList": [{
+				"id": 0,
+				"lat": 49.9895076,
+				"lon": 18.5601851,
+				"elv": 5
+			}],
+			"mainCoordinates": {
+				"id": "1230",
+				"lat": 49.9895076,
+				"lon": 18.5601851,
+				"elv": "1"
+			}
+		},
+		"connectedContentList": [{
+			"id": 1,
+			"category": "Ważne",
+			"name": "Powiązane wydarzenie"
+		}]
+	}]
 }
