@@ -8,23 +8,28 @@
 		"placesList": [
 	  {
 			"id": 0,
-			"name": "kopiec Wandy"
+			"name": "kopiec Wandy",
+			"shortDescription": "A jednak warto spojrzeć na Nową Hutę inaczej"
 		},
 		{
 			"id": 2,
-			"name": "dworek Jana Matejki w Krzesławicach"
+			"name": "dworek Jana Matejki w Krzesławicach",
+			"shortDescription": "A jednak warto spojrzeć na Nową Hutę inaczej"
 		},
 		{
 			"id": 101,
-			"name": "osiedla Wandy i Willowe"
+			"name": "osiedla Wandy i Willowe",
+			"shortDescription": "A jednak warto spojrzeć na Nową Hutę inaczej"
 		},
 		{
 			"id": 102,
-			"name": " krzyż nowohucki"
+			"name": " krzyż nowohucki",
+			"shortDescription": "A jednak warto spojrzeć na Nową Hutę inaczej"
 		},
 		{
 			"id": 103,
-			"name": "Teatr Ludowy "
+			"name": "Teatr Ludowy ",
+			"shortDescription": "A jednak warto spojrzeć na Nową Hutę inaczej"
 		}]
 	}]
 }
