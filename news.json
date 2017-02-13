@@ -134,6 +134,142 @@
           "name": "Powiązane wydarzenie"
         }
       ]
+    },
+    
+    {
+      "id": 3,
+      "title": "BO: Za nami Akademia Kobiecego Futbolu",
+      "shortDescription": "Biuro Prasowe UMWM",
+      "content": "Obecnie w Polsce futbol trenuje około 30tys. dziewczynek. O tym, że piłka nożna to sport nie tylko dla chłopców przekonywały uczestniczki projektu Akademia Kobiecego Futbolu, finansowanego w ramach Budżetu Obywatelskiego Województwa Małopolskiego. Za nami finał Małopolskiej Ligi Dziewcząt. Zwyciężczynie rozgrywek odebrały nagrody z rąk Grzegorza Lipca z zarządu województwa małopolskiego.",
+      "newsCategoriesList": [
+        {
+          "id": 0,
+          "name": "sport",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        },
+        {
+          "id": 1,
+          "name": "muzyka",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        }
+      ],
+      "date": {
+        "dateFrom": "2017-01-01T12:00:00.001Z",
+        "dateTo": "2017-02-01T12:00:00.001Z"
+      },
+      "thumbnail": {
+        "id": 3,
+        "uri": "https://www.malopolska.pl/_cache/news--2017/790-790/fit/17xxx1000.jpg",
+        "path": ""
+      },
+      "images": [{
+        "id": 1,
+        "uri": "https://www.malopolska.pl/_cache/news--2017/790-790/fit/17xxx1000.jpg",
+        "path": ""
+      }],
+      "www": "example.com",
+      "connectedContentList": [
+        {
+          "id": 1,
+          "category": "Ważne",
+          "name": "Powiązane wydarzenie"
+        }
+      ]
+    },
+   {
+      "id": 4,
+      "title": "„Ziarnka Gorczycy” za działalność dobroczynną",
+      "shortDescription": "Biuro Prasowe UMWM",
+      "content": "Obecnie w Polsce futbol trenuje około 30tys. dziewczynek. O tym, że piłka nożna to sport nie tylko dla chłopców przekonywały uczestniczki projektu Akademia Kobiecego Futbolu, finansowanego w ramach Budżetu Obywatelskiego Województwa Małopolskiego. Za nami finał Małopolskiej Ligi Dziewcząt. Zwyciężczynie rozgrywek odebrały nagrody z rąk Grzegorza Lipca z zarządu województwa małopolskiego.",
+      "newsCategoriesList": [
+        {
+          "id": 0,
+          "name": "SPRAWY SPOŁECZNE I RODZINA",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        },
+        {
+          "id": 1,
+          "name": "muzyka",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        }
+      ],
+      "date": {
+        "dateFrom": "2017-01-01T12:00:00.001Z",
+        "dateTo": "2017-02-01T12:00:00.001Z"
+      },
+      "thumbnail": {
+        "id": 3,
+        "uri": "https://www.malopolska.pl/_cache/news--2017/790-790/fit/15xxx1000.jpg",
+        "path": ""
+      },
+      "images": [{
+        "id": 1,
+        "uri": "https://www.malopolska.pl/_cache/news--2017/790-790/fit/15xxx1000.jpg",
+        "path": ""
+      }],
+      "www": "example.com",
+      "connectedContentList": [
+        {
+          "id": 1,
+          "category": "Ważne",
+          "name": "Powiązane wydarzenie"
+        }
+      ]
+    },
+   {
+      "id": 5,
+      "title": "O gospodarce na rynkach międzynarodowych",
+      "shortDescription": "Biuro Prasowe UMWM",
+      "content": "Działania Komisji Europejskiej na rzecz przedsiębiorców i rozwoju rynku wewnątrzwspólnotowego, były głównym tematem debaty gospodarczej, zorganizowanej wspólnie przez województwo małopolskie, stowarzyszenie Rota i fundację Pomyśl o przyszłości. Gościem specjalnym wydarzenia była Elżbieta Bieńkowska, unijna komisarz ds. rynku wewnętrznego.",
+      "newsCategoriesList": [
+        {
+          "id": 0,
+          "name": "BIZNES I GOSPODARKA",
+          "image": {
+            "id": 0,
+            "uri": "http://www.drodd.com/images15/c5.png",
+            "path": ""
+          }
+        }
+      ],
+      "date": {
+        "dateFrom": "2017-01-01T12:00:00.001Z",
+        "dateTo": "2017-02-01T12:00:00.001Z"
+      },
+      "thumbnail": {
+        "id": 3,
+        "uri": "https://www.malopolska.pl/_cache/news--2017/1700-956/fit/CRJ_0314xxx1000.jpg",
+        "path": ""
+      },
+      "images": [{
+        "id": 1,
+        "uri": "https://www.malopolska.pl/_cache/news--2017/1700-956/fit/CRJ_0314xxx1000.jpg",
+        "path": ""
+      }],
+      "www": "example.com",
+      "connectedContentList": [
+        {
+          "id": 1,
+          "category": "Ważne",
+          "name": "Powiązane wydarzenie"
+        }
+      ]
     }
   ]
     
