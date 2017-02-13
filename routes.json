@@ -1,18 +1,30 @@
 {
 	"routes": [{
-		"name": "Trasa o id 101",
+		"name": "Trasa nowohucka",
 		"id": 101,
-		"shortDescription": "Opis szczegolowy trasy",
+		"shortDescription": "Od Kombinatu aż po Pałac Matejki",
+		"content": "Żyjąca legenda komunizmu. Sztandarowa budowa z czasów, gdy na Kremlu czuwał towarzysz Stalin. A jednak warto spojrzeć na Nową Hutę inaczej – jak na dobrze zaprojektowane, funkcjonalne miasto, z długą, niekiedy dramatyczną historią, która sięga dużo dalej niż tylko do lat 40. XX wieku. Właśnie tu znaleziono najstarszy w Polsce wyrób ze złota – kolczyk z ok. 2000 roku p.n.e.). Tu zobaczymy tajemniczy kopiec grobowy córki legendarnego założyciela miasta i jeden z najstarszych krakowskich kościołów. Choć socjalistyczna w formie, Nowa Huta fascynuje bogatą treścią. (Barbara Skowrońska, Karnet)"
 		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Krak%C3%B3w_-_Sukiennice_01.jpg/250px-Krak%C3%B3w_-_Sukiennice_01.jpg",
 		"placesList": [
 	  {
-			"id": 0
+			"id": 0,
+			"name": "kopiec Wandy"
 		},
 		{
-			"id": 2
+			"id": 2,
+			"name": "dworek Jana Matejki w Krzesławicach"
 		},
 		{
-			"id": 101
+			"id": 101,
+			"name": "osiedla Wandy i Willowe"
+		},
+		{
+			"id": 102,
+			"name": " krzyż nowohucki"
+		},
+		{
+			"id": 103,
+			"name": "Teatr Ludowy "
 		}]
 	}]
 }
